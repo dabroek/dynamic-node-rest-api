@@ -1,0 +1,25 @@
+[
+    {
+        "resource": "beer",
+        "methods": [
+            "GET",
+            "POST",
+            "PUT"
+        ],
+        "fields": [
+    		"name",
+            "percentage"
+        ]
+    },
+    {
+        "resource": "wine",
+        "methods": [
+            "GET",
+            "POST",
+            "PUT"
+        ]
+    },
+    {
+        "resource": "soda"
+    }
+]
